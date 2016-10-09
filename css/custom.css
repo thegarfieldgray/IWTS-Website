@@ -1,0 +1,25 @@
+<style>    
+    nav ul li a{
+    color: white;
+  }  
+
+  i.icon-color{
+    color:#8e82b0;
+  }
+
+  #bkgd {
+    background-color: #eceff1;
+  }
+
+  #left_border{
+    border-left: 2px solid #546e7a;
+  }
+
+  #right_border{
+    border-right: 2px solid #546e7a;
+  }
+
+  .parallax-container {
+    width: 100%;
+  }
+</style>
